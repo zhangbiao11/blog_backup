@@ -12,7 +12,7 @@ keywords: "Python，数据库"
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://zhangbiao11.github.io
+url: https://zhangbiao11.github.io
 root: /
 permalink: :year/:month/:day/:title/
 tag_dir: tags
@@ -92,7 +92,7 @@ exclude_generator:
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: http://zhangbiao11/zhangbiao11.github.com.git
+  repo: https://github.com/zhangbiao11/zhangbiao11.github.io
   branch: master
   root: /usr/local/nginx/友人A~.me/
   port: 22
